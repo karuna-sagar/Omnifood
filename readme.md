@@ -11,10 +11,7 @@ This single-page website was created as a final project for an HTML/CSS course, 
 - Implemented smooth scrolling functionality when navigation links in the header and footer are clicked, enhancing the overall user experience.
 
 ### Intersection Observer
-- Utilized IntersectionObserver to create subtle animations and a sticky navigation bar. These animations trigger based on viewport rules, such as elements entering or leaving the viewport.
-
-### Cross-Browser Support
-- Ensured cross-browser compatibility by adding appropriate prefixes (-webkit, -moz-, -o-, -ms-) for certain CSS styles, ensuring a consistent look and feel across different browsers.
+- Utilized Intersection Observer to create subtle animations and a sticky navigation bar. These animations trigger based on viewport rules, such as elements entering or leaving the viewport.
 
 ### Functional Form
 - Included a functional form for user interaction, such as inquiries or subscription sign-ups, improving user engagement and feedback.
