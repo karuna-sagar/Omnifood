@@ -1,4 +1,4 @@
-# Omnifood Single Page Website
+# Omnifood
 
 This single-page website was created as a final project for an HTML/CSS course, showcasing a fictional company called Omnifood. Omnifood is focused on providing AI-based meals through a subscription service. The project aimed to implement various key features and topics that are commonly used in web development, making it a valuable learning experience for future web projects.
 
